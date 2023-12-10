@@ -1,17 +1,7 @@
-# leo_workshop_logic_1210.aleo
+# leo_workshop_logic_1210
 
 From Logic
 
-## Build Guide
+## Transaction ID
 
-To compile this Aleo program, run:
-
-```bash
-snarkvm build
-```
-
-To execute this Aleo program, run:
-
-```bash
-snarkvm run hello
-```
+[at1azn7cclaswsusu90evgjk2w0wfnzvy60pxepxlz8677ugaz0kczshsvxxs](https://aleo123.io/transactionDetail/at1azn7cclaswsusu90evgjk2w0wfnzvy60pxepxlz8677ugaz0kczshsvxxs)
