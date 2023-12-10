@@ -1,6 +1,6 @@
 # leo_workshop_logic_1210
 
-From Logic
+From Logic (twilightlogic@gmail.com)
 
 ## Transaction ID
 
